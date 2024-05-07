@@ -4,11 +4,9 @@ public class Mahasiswa {
     private String NRP;
     private String nama;
 
-
     public Mahasiswa() {
         // TODO Auto-generated constructor stub
     }
-
     // Konstruktor parameter
     public Mahasiswa(String NRP, String nama) {
         super();
